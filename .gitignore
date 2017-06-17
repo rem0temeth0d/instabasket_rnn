@@ -99,3 +99,20 @@ ENV/
 
 # mypy
 .mypy_cache/
+opt/data/aisles.csv
+opt/data/aisles.csv.zip
+opt/data/departments.csv
+opt/data/departments.csv.zip
+opt/data/order_products__prior.csv
+opt/data/order_products__prior.csv.zip
+opt/data/order_products__train.csv
+opt/data/order_products__train.csv.zip
+opt/data/orders.csv
+opt/data/orders.csv.zip
+opt/data/products.csv
+opt/data/products.csv.zip
+opt/data/sample_submission.csv
+opt/data/sample_submission.csv.zip
+.dockerenv
+classroom-data-opt.tar
+classroom_data.tar
